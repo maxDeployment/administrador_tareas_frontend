@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.w-64 {
+    width: 22rem;
+}
+
+.w-8.h-8.text-white {
+color: rgb(23 37 84);
+}

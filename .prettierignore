@@ -1,0 +1,10 @@
+app/translations/**
+build/**
+build-server/**
+coverage/**
+mocks/**/*.json
+.nordic/
+templates/**
+docs/guide/*
+!.storybook
+storybook-static
